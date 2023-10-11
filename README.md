@@ -1,4 +1,6 @@
-<h1 align="center">Maxim (Themm_s)</h1>
+<h1 align="center">Maxim (Themm_s)</h1> 
+
+![image](https://www.codewars.com/users/Themms/badges/large)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -8,7 +10,7 @@
 
 ### About Me :
         
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Front-End Developer from Russia.
 
 - :telescope: Thats my start page for know about my skills and experience.
 
@@ -47,8 +49,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themm-s&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![image](https://www.codewars.com/users/Themms/badges/large)
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themm-s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
