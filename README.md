@@ -6,8 +6,6 @@
 
 <h1 align="center">Front-End Developer</h1>
 
-![image](https://www.codewars.com/users/Themms/badges/large)
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -56,8 +54,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themm-s&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
+![image](https://www.codewars.com/users/Themms/badges/large)
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themm-s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
