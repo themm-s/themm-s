@@ -6,6 +6,8 @@
 
 <h1 align="center">Front-End Developer</h1>
 
+![image](https://www.codewars.com/users/Themms/badges/large)
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
