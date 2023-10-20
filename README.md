@@ -1,6 +1,9 @@
 <h1 align="center">Maxim (Themm_s)</h1> 
-
+<div align="center">
+        
 ![image](https://www.codewars.com/users/Themms/badges/large)
+
+</div>
 
 <h1 align="center">Front-End Developer</h1>
 
