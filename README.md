@@ -2,10 +2,6 @@
 
 ![image](https://www.codewars.com/users/Themms/badges/large)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <h1 align="center">Front-End Developer</h1>
 
 ### About Me :
