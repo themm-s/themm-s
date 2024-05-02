@@ -5,11 +5,11 @@
 
 </div>
 
-<h1 align="center">Front-End Developer</h1>
+<h1 align="center">Full-Stack Developer</h1>
 
 ### About Me :
         
-I am a Front-End Developer from Russia.
+I am a Full-Stack Developer from Russia.
 
 - :telescope: Thats my start page for know about my skills and experience.
 
