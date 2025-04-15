@@ -21,7 +21,7 @@ I am a Full-Stack Developer from Russia.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,redux,nextjs,vue,svelte,vite,express,mongo,mysql,docker,nginx,npm,gitlab,bash,bun,arch,php,laravel,bots,figma,linux)
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,redux,nest,nextjs,prisma,vue,svelte,vite,express,mongo,mysql,docker,nginx,npm,gitlab,bash,bun,arch,php,laravel,bots,figma,linux)
 
 ---
 
