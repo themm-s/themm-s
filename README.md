@@ -30,11 +30,8 @@ I am a Full-Stack Developer from Russia.
 
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
-  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-
-        
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=themm-s&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://github.com/themm-s"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=themm-s&theme=radical&title_color=ff3068?"></a>
+<a href="https://github.com/themm-s"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=themm-s&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themm-s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
